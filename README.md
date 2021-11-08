@@ -49,7 +49,7 @@ GIVEN an e-commerce platform that uses Redux to manage global state...
 
 ## Deployed Application
 
-https://herokuapp.com/
+https://dry-stream-19515.herokuapp.com/
 
 ## MIT License
 
